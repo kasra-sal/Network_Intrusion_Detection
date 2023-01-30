@@ -22,7 +22,7 @@ If the output shows git with a version, then skip Git installation section as yo
 
 If git was not installed, do the following
 ```
-sudo apt-update; sudo apt-get install git - y
+sudo apt-get update; sudo apt-get install git -y
 ```
 ## Anaconda Installation
 Download and install anaconda according to [anaconda documentation: Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/) or [anaconda documentation: Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/) with respects to your operating system.
